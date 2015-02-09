@@ -1,0 +1,2 @@
+# gitServer
+gitolite
